@@ -2,6 +2,8 @@
 
 This is my github account that i mostly use for my learning (*Playground) projects and projects where i keep my ideas and approaches. Do not consider them as finished solutions, just examples.
 
+[Обо мне](https://github.com/tumanina/About_me_ru-ru)
+
 ## About me
 I am result oriented, high performing developer with 15+ years of experience in software development, scalable and high-load microservices architecture, Rest Api (integration with third-party companies, backend for frontend), with expirence in clean code, code review, estimate, and planning development process, refactoring, bug fixing. Working individual as well as in a team, not afraid of responsibility and have experience in leading projects. 
 
