@@ -5,7 +5,9 @@ This is my github account that i mostly use for my learning (*Playground) projec
 [Обо мне](https://github.com/tumanina/About_me_ru-ru)
 
 ## About me
-I am result oriented, high performing developer with 15+ years of experience in software development, scalable and high-load microservices architecture, Rest Api (integration with third-party companies, backend for frontend), with expirence in clean code, code review, estimate, and planning development process, refactoring, bug fixing. Working individual as well as in a team, not afraid of responsibility and have experience in leading projects. 
+Results-driven software developer with 15+ years of experience designing and delivering scalable, high-performance systems.
+Deep expertise in C#, .NET/.NET Core, and modern backend design principles. Specialized in microservices architecture and REST API development, including complex third-party integrations and backend-for-frontend solutions.
+Proven track record of building reliable, high-load applications with a strong focus on clean code, maintainability, and performance optimization. Experienced in leading development processes end-to-end — from estimation and planning to implementation, code reviews, and continuous improvement through refactoring and bug fixing, comfortable working both independently and within cross-functional teams, with a proactive mindset and strong sense of ownership.
 
 ## Programming languages: 
 C#, T-SQL
@@ -39,4 +41,3 @@ https://github.com/MewsSystems/gitbook-connector-api
 
 LinkedIn: https://www.linkedin.com/in/tumanina
 Hacker rank: https://www.hackerrank.com/tumanina
-
