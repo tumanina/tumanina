@@ -13,26 +13,26 @@ Proven track record of building reliable, high-load applications with a strong f
 C#, T-SQL
 Limited by task scope: Python, TypeScript, Go
 ## Databases: 
-MSSQL Server, PostgreSQL, MongoDB. 
+MSSQL Server, PostgreSQL, Redis, MongoDB. 
 ## Technology stack:
- .NET (framework 2.0 - 4.7, core 2.2 - 3.1, .NET 5-8)
+ .NET (framework 2.0 - 4.8, core 2.2 - 3.1, .NET 5-10)
 ## Version control: 
-Git (Github, Gitlab, Stash/Bitbucket, Azure Devops)
-#$ Bug tracking/ project management: 
+Git (Github, Gitlab, Azure Devops)
+## Bug tracking/ project management: 
 Azure DevOps, JIRA, YouTrack
 ## CI/CD: 
 Azure Pipelines (yaml), TeamCity, Jenkins, Octopus
 ## Containers: 
-Docker, include compose
+Docker (include compose), Kubernetes
 ## Communications: 
 Rest Api, grpc, GraphQL 
 ## Messaging: 
 Azure event hubs, Kafka, RabbitMQ
 ## IDE: 
-Visual Studio (2003-2022), Visual Studio Code
+Visual Studio (2003-2026), Visual Studio Code
 ## Architecture:
 Interested in Microservices architecture (8+ years) with both async (api/grpc/webhooks) and sync (message brokers) communications, splitting monolit solution to microservices. 
-DDD, TDD, SOLID, GoF and grasp patterns (Strategy, facade, adapter, etc), Event sourcing and CQRS, clean architecture.
+DDD, TDD, SOLID, GoF and grasp patterns (Singelton, strategy, facade, adapter, etc), Event sourcing and CQRS, Saga, event-driven architecture.
 
 # Public api projects:
 - Jedlix developer - open api documentation and sandbox (2022-2024) https://developer.jedlix.com/
