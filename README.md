@@ -9,30 +9,30 @@ Results-driven software developer with 15+ years of experience designing and del
 Deep expertise in C#, .NET/.NET Core, and modern backend design principles. Specialized in microservices architecture and REST API development, including complex third-party integrations and backend-for-frontend solutions.
 Proven track record of building reliable, high-load applications with a strong focus on clean code, maintainability, and performance optimization. Experienced in leading development processes end-to-end — from estimation and planning to implementation, code reviews, and continuous improvement through refactoring and bug fixing, comfortable working both independently and within cross-functional teams, with a proactive mindset and strong sense of ownership.
 
-## Programming languages: 
+### Programming languages: 
 C#, T-SQL
 Limited by task scope: Python, TypeScript, Go
-## Databases: 
+### Databases: 
 MSSQL Server, PostgreSQL, Redis, MongoDB. 
-## Technology stack:
+### Technology stack:
  .NET (framework 2.0 - 4.8, core 2.2 - 3.1, .NET 5-10)
-## Communications: 
+### Communications: 
 Rest Api, grpc, GraphQL 
-## Messaging: 
+### Messaging: 
 Azure event hubs, Kafka, RabbitMQ
-## CI/CD: 
+### CI/CD: 
 Azure Pipelines (yaml), TeamCity, Jenkins, Github Actions, Octopus
-## Containers: 
+### Containers: 
 Docker (include compose), Kubernetes
-## Monitoring / Logging: 
+### Monitoring / Logging: 
 Grafana, Sentry, Logz.io, OpenTelemetry, Jaeger, NewRelic
-## Tools & IDEs: 
+### Tools & IDEs: 
 Visual Studio (2003–2026), VS Code, Git, GitHub, GitLab, Jira, YouTrack, Swagger/OpenAPI, Postman.
-## Architecture:
+### Architecture:
 Interested in Microservices architecture (8+ years) with both async (api/grpc/webhooks) and sync (message brokers) communications, splitting monolit solution to microservices. 
 DDD, TDD, SOLID, GoF and grasp patterns (Singelton, strategy, facade, adapter, etc), Event sourcing and CQRS, Saga, event-driven architecture.
 
-# Public api projects:
+## Public api projects:
 - Jedlix developer - open api documentation and sandbox (2022-2024) https://developer.jedlix.com/
 - Mews connector api https://docs.mews.com/connector-api
 https://github.com/MewsSystems/gitbook-connector-api
