@@ -16,20 +16,18 @@ Limited by task scope: Python, TypeScript, Go
 MSSQL Server, PostgreSQL, Redis, MongoDB. 
 ## Technology stack:
  .NET (framework 2.0 - 4.8, core 2.2 - 3.1, .NET 5-10)
-## Version control: 
-Git (Github, Gitlab, Azure Devops)
-## Bug tracking/ project management: 
-Azure DevOps, JIRA, YouTrack
-## CI/CD: 
-Azure Pipelines (yaml), TeamCity, Jenkins, Octopus
-## Containers: 
-Docker (include compose), Kubernetes
 ## Communications: 
 Rest Api, grpc, GraphQL 
 ## Messaging: 
 Azure event hubs, Kafka, RabbitMQ
-## IDE: 
-Visual Studio (2003-2026), Visual Studio Code
+## CI/CD: 
+Azure Pipelines (yaml), TeamCity, Jenkins, Github Actions, Octopus
+## Containers: 
+Docker (include compose), Kubernetes
+## Monitoring / Logging: 
+Grafana, Sentry, Logz.io, OpenTelemetry, Jaeger, NewRelic
+## Tools & IDEs: 
+Visual Studio (2003–2026), VS Code, Git, GitHub, GitLab, Jira, YouTrack, Swagger/OpenAPI, Postman.
 ## Architecture:
 Interested in Microservices architecture (8+ years) with both async (api/grpc/webhooks) and sync (message brokers) communications, splitting monolit solution to microservices. 
 DDD, TDD, SOLID, GoF and grasp patterns (Singelton, strategy, facade, adapter, etc), Event sourcing and CQRS, Saga, event-driven architecture.
